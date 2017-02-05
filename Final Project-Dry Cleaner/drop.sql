@@ -1,0 +1,12 @@
+drop table ORDERS;
+drop table DATE_INFO;
+alter table DRY_CLEANER_BRANCH drop constraint mgr_ssn_constraint;
+drop table EMPLOYEE;
+drop table DRY_CLEANER_BRANCH;
+drop table CONTAIN;
+drop table USE;
+drop table MEMBERSHIP_CARD;
+drop table CUSTOMER;
+drop table OPERATIONS;
+drop table PLANS;
+drop table DETERGENT;
